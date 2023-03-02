@@ -1,3 +1,3 @@
 hi shubham mudaliar.
-Full stack development.
+Full stack developer.
 Open source enthusiast.
